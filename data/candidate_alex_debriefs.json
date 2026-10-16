@@ -1,0 +1,32 @@
+[
+  {
+    "interviewer": "Interviewer 1",
+    "focus_area": "System Design",
+    "scores": {"Architecture": 5, "Communication": 4},
+    "debrief": "Alex demonstrated exceptional depth in distributed systems. When asked to design a high-throughput trading ledger, they correctly identified the bottleneck in database writes and proposed a clean microservices architecture with a Redis caching layer. They proactively discussed trade-offs between eventual consistency and strict ACID properties. Highly rigorous and evidence-based performance. Strong technical foundation."
+  },
+  {
+    "interviewer": "Interviewer 2",
+    "focus_area": "Coding & Algorithms",
+    "scores": {"Python Syntax": 2, "Receptiveness to Feedback": 1},
+    "debrief": "Candidate struggled with basic Python list manipulations. When I gave a small hint regarding edge cases, Alex got noticeably defensive and insisted their broken logic was correct. Red flag on receptiveness to feedback and coachability."
+  },
+  {
+    "interviewer": "Interviewer 3",
+    "focus_area": "Culture & Team Fit",
+    "scores": {"Culture Fit": 4},
+    "debrief": "Great candidate, seems like a good fit for the team. Friendly and easy to talk to."
+  },
+  {
+    "interviewer": "Interviewer 4",
+    "focus_area": "Database Optimization",
+    "scores": {"SQL": 2, "API Design": 4},
+    "debrief": "API design was solid, but SQL knowledge is severely lacking. Could not write a basic LEFT JOIN without heavy prompting. They seemed to lose focus halfway through the interview and gave up on the final optimization question. Might need too much ramp-up time for our fast-paced team."
+  },
+  {
+    "interviewer": "Interviewer 5",
+    "focus_area": "Behavioral & Impact",
+    "scores": {"Collaboration": 5, "Leadership": 4},
+    "debrief": "Alex shared great examples of mentoring junior engineers. We did a collaborative debugging exercise, and Alex took feedback incredibly well, pivoting their approach immediately when I pointed out a flaw. Very collaborative."
+  }
+]
