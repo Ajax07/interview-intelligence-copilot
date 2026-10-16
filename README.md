@@ -1,8 +1,6 @@
 # Interview Intelligence Copilot
 
-**Interview Intelligence Copilot** is a prototype AI decision-support system for Human Capital teams and hiring managers. It addresses the cognitive load of reading 4–6 unstructured, variable-quality interview debriefs per candidate by replacing prose summarization with **targeted, schema-enforced extraction** — surfacing red flags, inter-interviewer conflicts, and competency evidence, all attributed back to source text.
-
-**This system will never generate a candidate score or a Hire/No-Hire recommendation.** That constraint is enforced structurally: the output schema has no field for either, and the final step is always a hardcoded `"Human Hiring Manager Review"` — not something the model can override.
+**Interview Intelligence Copilot** is a prototype AI decision-support system for HR teams and hiring managers. It addresses the cognitive load of reading 4–6 unstructured, variable-quality interview debriefs per candidate by replacing prose summarization with **targeted, schema-enforced extraction** — surfacing red flags, inter-interviewer conflicts, and competency evidence, all attributed back to source text.
 
 ---
 
